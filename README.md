@@ -1,77 +1,207 @@
-## Hi there 👋
-# Hello, devs! 👋
-<a href="https://github.com/Musharrafjamal">
-  <img src="https://komarev.com/ghpvc/?username=Musharrafjamal&style=flat&color=blue" alt=""/>
+<div align="center">
+
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=220&section=header&text=Musharraf%20Jamal&fontColor=c9d1d9&fontSize=42&fontAlignY=35&desc=Building%20AI-native%20products%20that%20think%20with%20you&descColor=8b949e&descSize=16&descAlignY=55&animation=fadeIn" width="100%"/>
+
+<!-- TYPING SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Full+Stack+Developer+%7C+AI+Engineer;Founder+%40+Revizer+%E2%80%94+Your+AI+Study+Companion" alt="Typing SVG" />
 </a>
 
-Welcome to my GitHub profile! 🌈
+<br/>
 
-## About Me ℹ️  
+<!-- BADGES ROW -->
+[![Profile Views](https://komarev.com/ghpvc/?username=Musharrafjamal&style=for-the-badge&color=161b22&label=PROFILE+VIEWS)](https://github.com/Musharrafjamal)
+&nbsp;
+[![Revizer](https://img.shields.io/badge/🚀_REVIZER-Try_Now-58A6FF?style=for-the-badge&labelColor=0d1117)](https://revizer.in)
+&nbsp;
+[![Followers](https://img.shields.io/github/followers/Musharrafjamal?style=for-the-badge&color=161b22&labelColor=0d1117&logo=github)](https://github.com/Musharrafjamal?tab=followers)
 
-- 🔭 I’m currently working on: Building exciting projects and exploring new technologies!
-- 🌱 I’m currently learning: Web Development, and UX/UI Design.
-- 👯 I’m looking to collaborate on: Open-source projects that make a positive impact.
-- 💬 Ask me about: Anything related to programming, technology, or anime! 🐱
-- 📫 How to reach me: Feel free to drop me an email at [musharrafjamal08@gmail.com](mailto:musharrafjamal08@gmail.com).
-- ⚡ Fun fact: I'm a coffee enthusiast and a huge fan of sci-fi movies and anime!
----
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs" alt="nextjs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript"  alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
----
-### :fire: My Stats :
-![Musharrafjamal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Musharrafjamal&theme=radical&hide_border=true) <br>
-![Musharrafjamal's Stats](https://github-readme-stats.vercel.app/api?username=Musharrafjamal&theme=radical&show_icons=true&hide_border=true&count_private=true)  <br>
-![Musharrafjamal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Musharrafjamal&theme=radical&show_icons=true&hide_border=true&layout=compact)
----
-	
-## Let's Connect! 🌐
+<br/>
 
-You can find me on various platforms:
+<!-- ABOUT SECTION -->
+## `> whoami`
 
-<div id="badges">
- 	<a href='https://www.linkedin.com/in/musharrafjamal8' target="_blank">
-		<img alt='linkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=linkedIn&logoColor=0A66C2&labelColor=FFE5E5&color=0A66C2'/>
-	</a>
-  <a href='https://www.instagram.com/musharraf008"' target="_blank">
-		<img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=flat&logo=Instagram&logoColor=FF5151&labelColor=FFE5E5&color=FF5151'/>
-	</a>
-  <a href='https://twitter.com/MusharrafJamal8' target="_blank">
-		<img alt='x' src='https://img.shields.io/badge/TwitterX-100000?style=flat&logo=x&logoColor=000000&labelColor=FFE5E5&color=000000'/>
-	</a>
- 
+```yaml
+name: Musharraf Jamal
+role: Full Stack Developer & AI Engineer
+location: India 🇮🇳
+company: Founder @ Revizer
+mission: Building AI-native products that make learning personal
+
+currently:
+  building: "Revizer — an AI friend that listens, gives feedback & helps you study"
+  exploring: "AI Agents, Speech Recognition, LLM Orchestration"
+  shipping: "React Native (Expo) app on Google Play"
+
+beliefs:
+  - "AI should feel like a companion, not a tool"
+  - "Ship fast, learn faster"
+  - "Build in public, grow together"
+```
+
+<br/>
+
+<!-- REVIZER FEATURE SECTION -->
+<div align="center">
+
+## 🧠 What I'm Building
+
+<table>
+<tr>
+<td width="600" align="center">
+
+### [✦ Revizer — Your AI Study Companion](https://revizer.in)
+
+<br/>
+
+> *An AI friend that listens to you, provides real-time feedback,*  
+> *and helps you study smarter — not harder.*
+
+<br/>
+
+🎙️ **Voice-first interaction** — Talk naturally, get instant AI feedback  
+🤖 **AI Agent architecture** — Autonomous study planning & review  
+📱 **Mobile-native** — Built with Expo & React Native  
+🧠 **Memory & context** — Remembers your learning patterns  
+
+<br/>
+
+[![Try Revizer](https://img.shields.io/badge/▸_Join_the_Waitlist-revizer.in-58A6FF?style=for-the-badge&labelColor=0d1117)](https://revizer.in)
+
+</td>
+</tr>
+</table>
+
 </div>
 
-Let's create something awesome together! 💫
+<br/>
 
-<!--
-**Musharrafjamal/Musharrafjamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- AI & AGENTS SECTION -->
+## ⚡ AI & Agents Stack
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                    AI  /  AGENT  TOOLBELT                        │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│   LLMs          │  OpenAI  ·  Claude  ·  Gemini                 │
+│   Speech        │  Whisper API  ·  Google Cloud STT             │
+│   Frameworks    │  LangChain  ·  AI SDK  ·  Prompt Engineering  │
+│   Agents        │  Autonomous Agents  ·  Tool Use  ·  RAG       │
+│   Infra         │  Vector DBs  ·  Embeddings  ·  Streaming      │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<br/>
+
+<!-- TECH STACK -->
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-0d1117?style=flat-square&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Redux](https://img.shields.io/badge/Redux-0d1117?style=flat-square&logo=redux&logoColor=764ABC)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
+
+**AI & Cloud**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-0d1117?style=flat-square&logo=googlecloud&logoColor=4285F4)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E)
+
+</div>
+
+<br/>
+
+<!-- GITHUB STATS -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- Streak Stats — using the official demolab domain (most reliable) -->
+<a href="https://github.com/Musharrafjamal">
+  <img width="400" src="https://streak-stats.demolab.com/?user=Musharrafjamal&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=8b949e&sideNums=c9d1d9" alt="Streak Stats"/>
+</a>
+
+<br/><br/>
+
+<!-- GitHub Profile Summary Cards — reliable alternative to github-readme-stats -->
+<a href="https://github.com/Musharrafjamal">
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Musharrafjamal&theme=github_dark" alt="GitHub Stats"/>
+</a>
+&nbsp;
+<a href="https://github.com/Musharrafjamal">
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Musharrafjamal&theme=github_dark" alt="Top Languages by Repo"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/Musharrafjamal">
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Musharrafjamal&theme=github_dark" alt="Top Languages by Commit"/>
+</a>
+&nbsp;
+<a href="https://github.com/Musharrafjamal">
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Musharrafjamal&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
+</a>
+
+<br/><br/>
+
+<!-- Profile Summary — wide card -->
+<a href="https://github.com/Musharrafjamal">
+  <img width="820" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Musharrafjamal&theme=github_dark" alt="Contribution Graph"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- CONNECT SECTION -->
+## 🔗 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/musharrafjamal8)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/musharraf_codeverse)
+[![X](https://img.shields.io/badge/X_(Twitter)-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/MusharrafJamal8)
+[![YouTube](https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@musharraf_codeverse)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:musharrafjamal08@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://musharraf-jamal1.vercel.app)
+
+</div>
+
+<br/>
+
+<!-- QUOTE -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20AI%20doesn%27t%20replace%20thinking%20%E2%80%94%20it%20thinks%20with%20you.&author=Building%20%40%20Revizer" alt="Quote"/>
+</div>
+
+<br/>
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=120&section=footer" width="100%"/>
