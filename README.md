@@ -19,8 +19,6 @@
 
 </div>
 
-<br/>
-
 <!-- ABOUT SECTION -->
 ## `> whoami`
 
@@ -200,8 +198,3 @@ beliefs:
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20AI%20doesn%27t%20replace%20thinking%20%E2%80%94%20it%20thinks%20with%20you.&author=Building%20%40%20Revizer" alt="Quote"/>
 </div>
-
-<br/>
-
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=120&section=footer" width="100%"/>
